@@ -2,7 +2,7 @@
 
 **MS in Applied Machine Learning @ University of Maryland · GenAI / Agentic AI Engineer**
 
-I build the layer most LLM projects skip — the part that proves the output can be trusted.
+I build the layer most LLM projects skip, the part that proves the output can be trusted.
 Eval harnesses, anti-hallucination grounding, and deterministic safety around agentic systems.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/soumitra-chavan-a1420021b/) · 🚀 Live demo: [GTMer](https://pipeline-gtmer.vercel.app) · 📍 College Park, MD
